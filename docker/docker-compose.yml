@@ -1,0 +1,8 @@
+version: '3'
+services:
+  quant-engine:
+    build: .
+    container_name: quant-engine
+    volumes:
+      - .:/app
+    command: python3 python/core/engine_wrapper.py
