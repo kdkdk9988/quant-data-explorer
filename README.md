@@ -27,36 +27,51 @@ Build a community-driven hub of open financial data to help beginners learn and 
 
 This project is open to contributors of all levels. Below is a list of 25 tasks you can help with. 
 
-## How to claim a task
-1. Check if a task is already taken by looking at the Issues.
-2. Claim a task by commenting on the Issue or assigning it to yourself.
-3. Change the issue label to "In Progress" when you start.
-4. Submit a Pull Request linked to the Issue when done.
-5. Tasks inactive for 10 days may be reopened.
+# How to Claim a Task
 
-## Task List
-1. Add new financial datasets
-2. Clean existing datasets
-3. Write data validation scripts
-4. Document datasets in README
-5. Add example Jupyter notebooks for data analysis
-6. Create summary statistics scripts
-7. Build visualizations of key datasets
-8. Standardize data formats
-9. Write helper functions for loading datasets
-10. Implement basic error handling for missing values
-11. Add metadata for datasets
-12. Create automated scripts to download new datasets
-13. Write beginner-friendly tutorials for dataset exploration
-14. Add CSV/JSON export functions
-15. Build dataset quality checks
-16. Improve folder structure for data organization
-17. Write README examples showing data usage
-18. Add unit tests for helper functions
-19. Document workflow for contributing new data
-20. Benchmark data loading performance
-21. Add contribution guidelines for new datasets
-22. Create a simple search tool for datasets
-23. Add references to data sources
-24. Add data visualization templates
-25. Maintain a changelog for dataset updates
+1. Check if a task is already taken by looking at the Issues.  
+2. Claim a task by commenting on the Issue or assigning it to yourself.  
+3. Change the issue label to "In Progress" when you start.  
+4. Submit a Pull Request linked to the Issue when done.  
+5. Tasks inactive for 10 days may be reopened.  
+
+---
+
+# Task List
+
+## 1. Dataset Management
+- Add new financial datasets  
+- Clean existing datasets  
+- Standardize data formats  
+- Add metadata for datasets  
+- Create automated scripts to download new datasets  
+- Maintain a changelog for dataset updates  
+
+## 2. Data Validation & Quality
+- Write data validation scripts  
+- Build dataset quality checks  
+- Implement basic error handling for missing values  
+- Benchmark data loading performance  
+
+## 3. Helper Functions & Automation
+- Write helper functions for loading datasets  
+- Add CSV/JSON export functions  
+- Create a simple search tool for datasets  
+- Improve folder structure for data organization  
+
+## 4. Analysis & Visualization
+- Add example Jupyter notebooks for data analysis  
+- Create summary statistics scripts  
+- Build visualizations of key datasets  
+- Add data visualization templates  
+
+## 5. Documentation & Tutorials
+- Document datasets in README  
+- Write README examples showing data usage  
+- Write beginner-friendly tutorials for dataset exploration  
+- Document workflow for contributing new data  
+- Add references to data sources  
+- Add contribution guidelines for new datasets  
+
+## 6. Testing & Maintenance
+- Add unit tests for helper functions
